@@ -1,6 +1,6 @@
-# cPanel Karma Lite
+# Python cPanel Karma Lite
 
-Accurate Python cPanel Checker
+Accurate Python Mass cPanel Checker
 
 Usage: **python3 karma.py**
 
