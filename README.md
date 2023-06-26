@@ -18,4 +18,6 @@ The results will save in [**yourtext.txt**]
 **Copyright © 2023 by Dope Creator. All Rights Reserved!**
 
 
-![Image](https://raw.githubusercontent.com/orionhridoy/cPanel-Karma/main/img/Working.JPG)]
+![Image](https://raw.githubusercontent.com/orionhridoy/img/main/Capture.PNG)]
+
+![Image](https://raw.githubusercontent.com/orionhridoy/img/main/Capture0.PNG)]
