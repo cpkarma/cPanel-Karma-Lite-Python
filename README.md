@@ -17,7 +17,7 @@ The results will save in [**yourtext.txt**]
 
 **Copyright © 2023 by Dope Creator. All Rights Reserved!**
 
+![Image](https://raw.githubusercontent.com/orionhridoy/img/main/Capture0.PNG)]
 
 ![Image](https://raw.githubusercontent.com/orionhridoy/img/main/Capture.PNG)]
 
-![Image](https://raw.githubusercontent.com/orionhridoy/img/main/Capture0.PNG)]
