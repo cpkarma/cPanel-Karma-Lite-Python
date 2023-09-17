@@ -13,14 +13,10 @@ The results will save in [**yourtext.txt**]
 
 1. Mass cPanel Checker (Unlimited)
 2. Mass cPanel To Shell (Unlimited)
-3. Mass Deceptive/Red Shell Checker
 
 **CPANEL Format:** https://domain:2083|user|pass
 
 
 **Copyright © 2023 by Dope Creator. All Rights Reserved!**
 
-![Image](https://raw.githubusercontent.com/orionhridoy/img/main/Capture0.JPG)
-
-![Image](https://raw.githubusercontent.com/orionhridoy/img/main/Capture.PNG)
-
+![Image](https://raw.githubusercontent.com/cpkarma/img/main/Capture.PNG)
