@@ -4,6 +4,8 @@ Accurate Python Mass cPanel Checker
 
 Requirements: **Python3**
 
+Install: *REQUESTS*
+
 Usage: **python3 karma.py**
 
 The results will save in [**yourtext.txt**]
